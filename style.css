@@ -440,7 +440,7 @@ input {
   flex-direction: column;
 }
 
-.listings_header p{
+.listings_header p {
   font-size: x-large;
   gap: 20px;
 }
